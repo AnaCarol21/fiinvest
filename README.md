@@ -1,6 +1,9 @@
 # FIInvest
 Planilha desenvolvida no curso de excel da DIO com o tutor Felipão
 
+# Mostruario 🪞
+![](https://github.com/AnaCarol21/fiinvest/blob/main/imagens/mostruario.png)
+
 # Objetivo 🎯
 Melhor visibilidade e planejamento dos investimentos em fundos imobiliários
 
